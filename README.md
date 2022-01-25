@@ -4,7 +4,10 @@
  
  
 ### dependencies 
-node 14+ npm 7+ docker, docker compose
+node 14+ npm 7+ 
+
+### skill
+express, docker and docker compose
 
 ### How install
 npm install
