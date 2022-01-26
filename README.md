@@ -1,5 +1,5 @@
 # chatwebsocketio
- chat application, using websocketio and express. Inserted inside a docker container.
+ chat application, using websocketio and express. Inserted inside a DOCKER COMPOSE with MYSQL.
  
  
  
