@@ -1,4 +1,4 @@
-# chatwebsocketio
+# chatwebsocketio DOCKER COMPOSE with MYSQL
  chat application, using websocketio and express. Inserted inside a DOCKER COMPOSE with MYSQL.
  
  
